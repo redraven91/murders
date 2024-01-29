@@ -2,7 +2,7 @@
 title: "Report on Gun Murders"
 author: "Chris Irwin"
 date: "2024-01-29"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
